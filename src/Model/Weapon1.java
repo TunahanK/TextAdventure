@@ -1,10 +1,10 @@
 package Model;
 
-public class Weapon1 extends Weapon {
+public class Weapon1 extends Weapon{
 
     public Weapon1(){
-        this.name = "Der heilige Gurkenschäler";
-        this.level = ;
-        this.attack = 50;
+        this.name = "Zahnstocher";
+        this.level = 1;
+        this.attack = 5;
     }
 }
